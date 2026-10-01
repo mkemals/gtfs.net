@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Toplu taşıma hatlarını tanımlar. Hat, yolculara tek bir hizmet olarak gösterilen seferler grubudur.

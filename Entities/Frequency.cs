@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Sefer aralığına (headway) dayalı hizmetler için seferler arası süreyi veya sabit tarifeli hizmetin sıkıştırılmış gösterimini tanımlar.

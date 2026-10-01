@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// calendar.txt içinde tanımlanan hizmetler için istisnaları tanımlar.

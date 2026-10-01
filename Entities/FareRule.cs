@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Güzergahlara ücretlerin uygulanma kurallarını tanımlar.

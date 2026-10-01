@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// İstasyonlar içindeki katları (seviyeleri) tanımlar.

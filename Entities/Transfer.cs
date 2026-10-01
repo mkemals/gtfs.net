@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Hatlar arasındaki aktarma noktalarında bağlantı kurma kurallarını tanımlar.

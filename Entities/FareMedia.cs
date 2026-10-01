@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Ücret ürünlerini kullanmak için kullanılabilecek ödeme araçlarını (bilet, kart, mobil uygulama vb.) tanımlar.

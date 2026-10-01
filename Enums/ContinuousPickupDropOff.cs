@@ -1,6 +1,6 @@
 ﻿// GTFS Schedule Reference (https://gtfs.org/documentation/schedule/reference/) temel alınarak oluşturulmuştur.
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Güzergah boyunca sürekli yolcu alma/indirme davranışı.

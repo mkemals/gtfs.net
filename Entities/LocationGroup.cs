@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Yolcunun alınma veya indirilme talebinde bulunabileceği konumları birlikte belirten durak gruplarını tanımlar.

@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Başlangıç ve bitiş tarihleri olan haftalık bir çizelge ile hizmet tarihlerini tanımlar.

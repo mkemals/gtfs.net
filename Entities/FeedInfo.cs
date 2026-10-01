@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Bu dosya, veri kümesinin açıkladığı hizmetler yerine veri kümesinin kendisiyle ilgili bilgileri (yayıncı, sürüm, geçerlilik süresi) içerir.

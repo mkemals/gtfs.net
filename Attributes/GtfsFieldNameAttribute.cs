@@ -2,7 +2,7 @@
 
 using System;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Property'nin karşılık geldiği GTFS alan (sütun) adını ve anahtar bilgilerini belirtir.

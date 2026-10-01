@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Araçların izlediği güzergah geometrisinin (hat hizalaması) eşleme kurallarını tanımlar.
