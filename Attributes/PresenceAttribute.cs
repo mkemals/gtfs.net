@@ -2,7 +2,7 @@
 
 using System;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// GTFS dosyasının (sınıf) veya alanının (property) bulunma koşulunu belirtir.

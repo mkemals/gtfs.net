@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// fare_leg_rules.txt kurallarıyla eşleştirme amacıyla iki veya daha fazla bacağın tek bir "etkin ücret bacağı" olarak değerlendirilmesine ilişkin kuralları tanımlar.

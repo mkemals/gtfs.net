@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Her sefer için bir aracın duraklara varış ve duraklardan kalkış zamanlarını tanımlar.

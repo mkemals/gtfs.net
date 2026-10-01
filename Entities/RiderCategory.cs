@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Yolcu kategorilerini (ör. yaşlı, öğrenci) tanımlar.

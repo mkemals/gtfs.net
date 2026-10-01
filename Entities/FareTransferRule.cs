@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Yolculuk bacakları arasındaki aktarmalara ilişkin ücret kurallarını tanımlar.

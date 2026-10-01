@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Her hat için seferleri tanımlar. Sefer, belirli bir zaman diliminde gerçekleşen iki veya daha fazla duraktan oluşan bir dizidir.

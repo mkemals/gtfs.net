@@ -4,8 +4,8 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
-    <RootNamespace>AJP.Gtfs</RootNamespace>
-    <AssemblyName>AJP.Gtfs</AssemblyName>
+    <RootNamespace>GtfsNet</RootNamespace>
+    <AssemblyName>GtfsNet</AssemblyName>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
     <Description>GTFS Schedule (GTFS-Flex dahil) spesifikasyonunun tamamını kapsayan C# model altyapısı.</Description>

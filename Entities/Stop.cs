@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Araçların yolcu aldığı veya indirdiği durakları tanımlar. İstasyonlar ve istasyon girişleri de bu dosyada tanımlanır.

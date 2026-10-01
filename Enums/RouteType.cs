@@ -1,6 +1,6 @@
 ﻿// GTFS Schedule Reference (https://gtfs.org/documentation/schedule/reference/) temel alınarak oluşturulmuştur.
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Hatta kullanılan taşıma türü. Genişletilmiş GTFS hat türleri (100-1702) int dönüşümüyle de taşınabilir.

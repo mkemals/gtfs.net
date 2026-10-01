@@ -4,7 +4,7 @@
 using System;
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Talebe bağlı (on-demand) hizmetlerde yolcunun alınma veya indirilme talep edebileceği, GeoJSON poligonlarıyla gösterilen bölgeleri tanımlar.

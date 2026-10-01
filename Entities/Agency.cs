@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Bu veri kümesinde hizmetleri temsil edilen toplu taşıma kurumlarını (ajansları) tanımlar.

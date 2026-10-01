@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Tarih ve saate bağlı ücretlerde, ücret kurallarında kullanılacak tarih ve zaman aralıklarını tanımlar.

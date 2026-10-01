@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Yolcu talebine bağlı hizmetler için rezervasyon bilgilerini tanımlar.

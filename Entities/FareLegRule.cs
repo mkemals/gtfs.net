@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Yolculuğun tek tek bacakları (leg) için ücret kurallarını tanımlar.

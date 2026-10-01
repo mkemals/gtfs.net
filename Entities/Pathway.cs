@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// İstasyonlar içindeki konumları birbirine bağlayan yaya yollarını (geçitleri) tanımlar.

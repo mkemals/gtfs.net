@@ -2,7 +2,7 @@
 
 using System;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Sınıfın karşılık geldiği GTFS dosyasının adını (uzantısız) belirtir. Örn: "feed_info" → feed_info.txt

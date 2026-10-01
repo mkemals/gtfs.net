@@ -3,7 +3,7 @@
 
 using System.ComponentModel;
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Bir ulaşım kurumunun hatlarına ait ücret bilgilerini tanımlar.

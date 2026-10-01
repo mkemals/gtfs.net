@@ -1,6 +1,6 @@
 ﻿// GTFS Schedule Reference (https://gtfs.org/documentation/schedule/reference/) temel alınarak oluşturulmuştur.
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Hizmetin haftanın ilgili gününde çalışıp çalışmadığı.

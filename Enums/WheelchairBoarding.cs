@@ -1,6 +1,6 @@
 ﻿// GTFS Schedule Reference (https://gtfs.org/documentation/schedule/reference/) temel alınarak oluşturulmuştur.
 
-namespace AJP.Gtfs.Entities
+namespace GtfsNet
 {
     /// <summary>
     /// Konumdan tekerlekli sandalyeyle biniş durumu. Anlamı konum türüne göre değişir (üst istasyonu olmayan durak, alt durak, istasyon girişi).

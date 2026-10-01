@@ -4,7 +4,7 @@ Tüm GTFS ve GTFS-Flex spesifikasyonunu içeren model altyapısı.
 
 [GTFS Schedule Reference](https://gtfs.org/documentation/schedule/reference/) içindeki **32 dosyanın tamamı** için C# sınıfları, alan değerleri için **26 enum** ve her dosya/alanın GTFS meta verisini (bulunma koşulu, alan adı, anahtar bilgisi, varsayılan değer) taşıyan **attribute**'ler içerir. Tüm açıklamalar Türkçedir.
 
-- Namespace: `AJP.Gtfs.Entities`
+- Namespace: `GtfsNet`
 - Hedef: `netstandard2.1` (.NET Core 3.0+, .NET 5/6/7/8+), C# 8+ (nullable reference types)
 - Harici bağımlılık yok
 
@@ -13,7 +13,7 @@ Tüm GTFS ve GTFS-Flex spesifikasyonunu içeren model altyapısı.
 ```
 gtfs.net/
 ├── AGtfsEntity.cs          # Tüm varlıkların türediği abstract temel sınıf
-├── AJP.Gtfs.csproj
+├── GtfsNet.csproj
 ├── Attributes/
 │   ├── GtfsFileNameAttribute.cs
 │   ├── GtfsFieldNameAttribute.cs
@@ -145,7 +145,7 @@ GTFS-Flex, resmi GTFS Schedule spesifikasyonunun parçası olarak tamamen destek
 ```csharp
 using System.ComponentModel;
 using System.Reflection;
-using AJP.Gtfs.Entities;
+using GtfsNet;
 
 var type = typeof(Stop);
 var file = type.GetCustomAttribute<GtfsFileNameAttribute>()!;
