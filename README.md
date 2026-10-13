@@ -5,7 +5,7 @@ Tüm GTFS ve GTFS-Flex spesifikasyonunu içeren model altyapısı.
 [GTFS Schedule Reference](https://gtfs.org/documentation/schedule/reference/) içindeki **32 dosyanın tamamı** için C# sınıfları, alan değerleri için **26 enum** ve her dosya/alanın GTFS meta verisini (bulunma koşulu, alan adı, anahtar bilgisi, varsayılan değer) taşıyan **attribute**'ler içerir. Tüm açıklamalar Türkçedir.
 
 - Namespace: `GtfsNet`
-- Hedef: `netstandard2.1` (.NET Core 3.0+, .NET 5/6/7/8+), C# 8+ (nullable reference types)
+- Hedef: `.Net 8+`
 - Harici bağımlılık yok
 
 ## Klasör yapısı
